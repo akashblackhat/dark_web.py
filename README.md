@@ -59,6 +59,8 @@ dark web  New Release. dark web is an Information Gathering, Footprinting, Scann
     pip3 install -r requirements.txt
     ls
     python dark_web.py
+![Screenshot 2022-10-06 063328](https://user-images.githubusercontent.com/88341460/194337285-7b51255e-b295-413d-9548-9d161cba25ab.jpg)
+  
     
      
   
