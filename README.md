@@ -38,7 +38,6 @@ dark web  New Release. dark web is an Information Gathering, Footprinting, Scann
 
 [+] Enter your choice:
 
-![Screenshot 2022-10-06 063328](https://user-images.githubusercontent.com/88341460/194337285-7b51255e-b295-413d-9548-9d161cba25ab.jpg)
   # kali linux 
     sudo apt install python
     git clone https://github.com/akashblackhat/dark_web.py.git
@@ -59,7 +58,6 @@ dark web  New Release. dark web is an Information Gathering, Footprinting, Scann
     pip3 install -r requirements.txt
     ls
     python dark_web.py
-![Screenshot 2022-10-06 063328](https://user-images.githubusercontent.com/88341460/194337285-7b51255e-b295-413d-9548-9d161cba25ab.jpg)
   
 # Disclaimer :    
 *  Dark_Web tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 🏴 !!!
